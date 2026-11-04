@@ -1,0 +1,13 @@
+{
+  "name": "motionproof",
+  "owner": {
+    "name": "Dodai0419"
+  },
+  "plugins": [
+    {
+      "name": "motionproof",
+      "source": "./",
+      "description": "Prove an animation copy moves like the original: timing, easing and pixels from two recordings, just Python and ffmpeg."
+    }
+  ]
+}

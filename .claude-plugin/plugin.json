@@ -1,0 +1,8 @@
+{
+  "name": "motionproof",
+  "description": "Prove an animation copy moves like the original: timing, easing and pixels from two recordings, just Python and ffmpeg.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Dodai0419"
+  }
+}
